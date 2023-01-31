@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'assets/scss/components/buttons';
+
+@import 'components/common/inputs/form-input';
+@import 'components/common/inputs/form-select';
+@import 'components/common/icons/loading-icon';
+
+@import 'vendors/multiselect';
